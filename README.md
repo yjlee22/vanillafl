@@ -3,7 +3,7 @@
 This is an official implementation of the following paper:
 > Youngjoon Lee, Jinu Gong, Sun Choi,and Joonhyuk Kang.
 **[Revisit the Stability of Vanilla Federated Learning Under Diverse Conditions](https://arxiv.org/abs/2502.19849)**  
-_arXiv:2502.19849_.
+_MICCAI 2025 (Accepted)_.
 
 ## Federated Learning Methods
 This paper considers the following federated learning techniques:
